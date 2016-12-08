@@ -14,5 +14,8 @@ class Sonido():
         pass
     def fourier(self):
         pass
-
-12aad6b3aac9c8c065a447a0f7071a24038b8b9c
+class Carrera():
+    def aprobatorios(self):
+        pass
+    def reprobatorios(self):
+        pass
